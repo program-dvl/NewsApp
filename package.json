@@ -11,7 +11,7 @@
     "@storybook/addons": "^4.0.0-alpha.20",
     "react": "16.6.3",
     "react-flags-select": "^1.1.10",
-    "react-native": "^0.58.5",
+    "react-native": "^0.70.2",
     "react-native-country-picker-modal": "^0.7.1",
     "react-native-deck-swiper": "^1.5.26",
     "react-native-device-info": "^0.26.2",
